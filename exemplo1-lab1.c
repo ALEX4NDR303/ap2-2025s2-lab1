@@ -9,7 +9,8 @@ int main(){
 	printf("Ciência da Computação\n");
 	printf("Algoritmos e Programação II\n");
 	printf("turma 02P\n");
+	printf("FCI 1970");
 	
-	system("pause");
+	//system("pause");
 	return 0;
 }
